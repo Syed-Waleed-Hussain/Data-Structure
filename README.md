@@ -1,6 +1,5 @@
 # 📚 Data Structures in C++ 🚀
 
-![🛠️ Data Structures](https://raw.githubusercontent.com/Syed-Waleed-Hussain/DATA_STRUCTURE/main/assets/data-structures.png)
 
 ## 🔥 Overview  
 This repository contains **C++ implementations** of fundamental **Data Structures** used in **computer science**. Each implementation is well-structured and beginner-friendly! 🎯  
